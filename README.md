@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Programm it as you never did it before ⚡ 
 
 <!--
 **omkhard/omkhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
